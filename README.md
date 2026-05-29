@@ -109,7 +109,7 @@ Expense Predictions
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/spendora.git
+git clone https://github.com/sakshisaraswat09/Spendora.git
 
 cd spendora
 
